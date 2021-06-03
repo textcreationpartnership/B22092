@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament concerning a new excise upon allum, copperas, monmouth caps, and hats of all sorts, hopps, saffron, starch, and all manner of silkes or stuffes, made in this kingdome, and many other goods and commodities imported, made, or growing in this kingdom not formerly paying excise : for the present payment of such pressing debts as are due unto severall handicrafts men, and other persons for armes, ammunition, and for other services of the state.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22092</idno><idno type="EEBO-CITATION">12091028</idno>
+  <idno type="VID">196789</idno>
+  <idno type="EEBO-PROQUEST">2240946142</idno>
+  
+            <idno type="STC">Wing E1813</idno>
+            <idno type="OCLC">12091028</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E54, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament concerning a new excise upon allum, copperas, monmouth caps, and hats of all sorts, hopps, saffron, starch, and all manner of silkes or stuffes, made in this kingdome, and many other goods and commodities imported, made, or growing in this kingdom not formerly paying excise : for the present payment of such pressing debts as are due unto severall handicrafts men, and other persons for armes, ammunition, and for other services of the state.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 10, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Internal revenue --  England.</term>
+               <term type="topical_term">Taxation --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196789:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, CONCERNING A new Excise upon <hi>Allum, Copperas, Monmouth-caps,</hi> and <hi>Hats</hi> of all sorts, <hi>Hopps, Saffron, Starch,</hi> and all manner of <hi>Silkes</hi> or <hi>Stuffes,</hi> made in this Kingdome; and many other Goods and Com<g ref="char:EOLhyphen"/>modities imported, made, or growing in this Kingdom, not formerly paying Excise.</p>
+            <p>For the present payment of such pressing debts as are due unto severall Handicrafts men, and other persons, for Armes, Ammunition, and for other services of the State.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 8 Julii, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Assembled in Parliament, that this Ordinance shall be forthwith printed and published.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, July 10. 1644.</p>
+            <pb facs="tcp:196789:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:196789:2"/>
+            <head>
+               <hi>An Ordinance of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament, concerning a new Excise upon <hi>Allum, Copperas, Monmouth-caps, and Hats of all sorts, Hopps, Saffron, Starch,</hi> and all manner of <hi>Silks</hi> or <hi>Stuffes</hi> made in this Kingdome; and many other Goods and Commodities imported, made or growing in this King<g ref="char:EOLhyphen"/>dome, not formerly paying Excise.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons in Par<g ref="char:EOLhyphen"/>liament being desirous by all good meanes to provide for the payment and satisfaction of the publique debts of the Kingdom, which they hope by Gods blessing in convenient time to bring to passe, and earnestly labouring the pre<g ref="char:EOLhyphen"/>sent satisfaction and payment of such pressing debts as are due unto severall Handicrafts<g ref="char:EOLhyphen"/>men, strangers, and other persons for Armes &amp; Ammunition, bought and taken up of them for the service of the State; And to severall poore persons for carriages by Cart and Wa<g ref="char:EOLhyphen"/>gon for the same use, and for the reliefe of woun<g ref="char:EOLhyphen"/>ded
+<pb n="2" facs="tcp:196789:3"/> and maimed Souldiers that have received their wounds in the service of the Common<g ref="char:EOLhyphen"/>wealth, and for the widdowes and children of such as have lost their lives in the said service, and for other necessary occasions for the defence of the King, Parliament, and Kingdome, Doe hereby declare, order, and ordaine, that the severall rates and charges here-under mentioned shall be set and laid, and are hereby set, laid, and imposed upon the severall Com<g ref="char:EOLhyphen"/>modities hereafter expressed, within this Realm, the Dominion of <hi>Wales,</hi> and Town of <hi>Berwicke,</hi> by way of Ercise and new Impost o<g ref="char:EOLhyphen"/>ver and above all Customes, and other duties due and payable for the same: <hi>viz.</hi> Vpon all Goods and Merchandizes whatsoever impor<g ref="char:EOLhyphen"/>ted (except Bullion, Corne, Victuall, Armes and Ammunition) which have not been hitherto charged with the duty of Excise and new Im<g ref="char:EOLhyphen"/>post, twelve pence upon every twenty shillings value thereof, and so proportionably for every greater or lesser value, to be paid by the first buyer thereof from the Merchant, Importer or Ingrosser. Provided, that for all Commodi<g ref="char:EOLhyphen"/>ties here rated, which are first imported and af<g ref="char:EOLhyphen"/>ter exported beyond the Sea, the Excise thereof
+<pb n="3" facs="tcp:196789:3"/> being payd, and due proofe thereof made by oath of the party or witnesses, which oath the said Commissioners or the major part of them, or such as they shall appoint under their hands and seales, shall have power to administer, shal be repaid, and the said Commissioners and their deputies shall have power to repay the same accordingly. Provided also, that <hi>Hemp, Flax, Tow, Pitch, Tar, Rozen,</hi> and <hi>Tallow</hi> im<g ref="char:EOLhyphen"/>ported, be accounted under Saltery-wares; And that all <hi>Cotten-wools</hi> imported shall pay onely six pence upon every pound value, and so after that rate for a greater or lesser value, to be paid by the first buyer, as aforesaid.</p>
+            <p>And be it further Ordained, that the Goods and Commodities hereafter mentioned, made or growing within this Kingdome shall pay by way of Excize upon the first sale, and by the first grower and maker thereof respectively for every value of twenty shillings, and so pro<g ref="char:EOLhyphen"/>portionably for a greater or lesser value, in such manner as is hereafter limited, and ap<g ref="char:EOLhyphen"/>pointed, <hi>viz.</hi>
+               <list>
+                  <item>Allum English, to be paid by the first buyer six pence.</item>
+                  <item>Copperas English, to be paid by the maker twelve pence.</item>
+                  <pb n="4" facs="tcp:196789:4"/>
+                  <item> Monmouth-caps of all sorts, to be paid by the first retailing buyer twelve pence.</item>
+                  <item>Hats of all sorts, to be paid by the first maker twelve pence.</item>
+                  <item>Hopps English, to be paid by the planter six pence.</item>
+                  <item>Saffron, to be paid by the planter twelve pence.</item>
+                  <item>Starch, to be payd by the first maker twelve pence.</item>
+                  <item>All manner of Silkes, or Stuffes made in the Kingdome, made of, or mixt with Silke, Haire, Wool, or Thread, not formerly paying Excise; As also all Upholstry-ware made in this King<g ref="char:EOLhyphen"/>dome, not formerly paying Excize, to be paid by the first buyer six pence.</item>
+                  <item>Tynn, to be payd by the first buyer twelve pence.</item>
+                  <item>Woad English, to be paid by the first buyer six pence.</item>
+                  <item>Iron made in England, to be paid by the first buyer six pence.</item>
+                  <item>Tobacco-pipes of all sorts, to be paid by the first buyer for every grosse foure pence.</item>
+               </list>
+            </p>
+            <p>And the Commissioners and Officers for the Excise appointed by former Ordinances of Parliament are hereby authorised, enabled and required to use all such good waies and ineans
+<pb n="5" facs="tcp:196789:4"/> for the discovering, rating, collecting and secu<g ref="char:EOLhyphen"/>ring of the severall summes of money herein imposed upon the severall commodities above<g ref="char:EOLhyphen"/>mentioned, as they are authorized and ena<g ref="char:EOLhyphen"/>bled to doe in the case of the Excise set upon o<g ref="char:EOLhyphen"/>ther Commodities by former Ordinances of both Houses of Parliament.</p>
+            <p>And be it further ordered and ordained, that of the moneys so to be raised by this addition of Excise or new Impost as aforesaid▪ one third part shall be imployed toward the satisfaction of the pressing debts due to the said severall Tradesmen, strangers, and other persons, and to severall poore persons for carriages by Cart and Wagon, as aforesaid; and also for the re<g ref="char:EOLhyphen"/>liefe of wounded and maimed Souldiers, and for satisfaction of such summes of money as are due unto or have been disbursed by Phy<g ref="char:EOLhyphen"/>sitians, Apothecaries, and Chyrurgeons, for the cure of them; and for the reliefe of such widdowes and children as have lost their hus<g ref="char:EOLhyphen"/>bands and fathers in the service of the Com<g ref="char:EOLhyphen"/>mon-wealth, as aforesaid. For the second third part, one moity thereof shall be imployed to<g ref="char:EOLhyphen"/>wards the maintenance of the Land-forces in service of the Parliament, and the other moity
+<pb n="6" facs="tcp:196789:5"/> for provision of Armes and Ammūnition for the same. And for the other third part, one moity thereof shall be imployed for the main<g ref="char:EOLhyphen"/>tenance of the Navy at Sea, under the com<g ref="char:EOLhyphen"/>mand of the E. of <hi>Warwicke</hi> Lord high Ad<g ref="char:EOLhyphen"/>mirall of <hi>England,</hi> and the other moity for pro<g ref="char:EOLhyphen"/>vision of Armes, store, and Ammunition for the same.</p>
+            <p>And be it also ordered and ordained, that this Ordinance shall begin and take effect from the 24 day of <hi>June,</hi> 1644. and from thence to continue for one yeere then next following.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
